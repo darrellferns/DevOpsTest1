@@ -1,0 +1,9 @@
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\bin\Debug\TestConsoleProject.exe.config
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\bin\Debug\TestConsoleProject.exe
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\bin\Debug\TestConsoleProject.pdb
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\bin\Debug\TestConsoleProject.xml
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.Resources.resources
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.vbproj.GenerateResource.Cache
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.exe
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.xml
+D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.pdb
