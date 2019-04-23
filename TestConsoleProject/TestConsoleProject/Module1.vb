@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Okay its done... Lets try it again. and again")
+        Console.WriteLine("A fresh Start.......")
         Console.ReadLine()
     End Sub
 
