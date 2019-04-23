@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Is Dipti in Love with ....... ? Yes")
+        Console.WriteLine("Aaaaahhhhhhh......")
         Console.ReadLine()
     End Sub
 
