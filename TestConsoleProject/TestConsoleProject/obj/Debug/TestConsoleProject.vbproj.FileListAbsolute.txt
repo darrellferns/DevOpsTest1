@@ -7,3 +7,7 @@ D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsol
 D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.exe
 D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.xml
 D:\PROJECTS\ME\DevOps\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.pdb
+D:\PROJECTS\ME\DevOps\Git\DevOpsTest1\TestConsoleProject\TestConsoleProject\bin\Debug\TestConsoleProject.exe.config
+D:\PROJECTS\ME\DevOps\Git\DevOpsTest1\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.exe
+D:\PROJECTS\ME\DevOps\Git\DevOpsTest1\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.xml
+D:\PROJECTS\ME\DevOps\Git\DevOpsTest1\TestConsoleProject\TestConsoleProject\obj\Debug\TestConsoleProject.pdb
